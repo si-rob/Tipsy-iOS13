@@ -28,5 +28,4 @@ class CalculatorViewController: UIViewController {
     
 }
 
-//is xcode git updated too?
 
